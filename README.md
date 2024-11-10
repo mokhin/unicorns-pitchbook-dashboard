@@ -1,8 +1,8 @@
 # Unicorn Startups in Europe Dashboard
 
-This project visualizes data on the Europe's unicorn startups [Pitched: Germany 2024](https://pitchbook.com/news/articles/unicorn-startups-list-trends).
+This project visualizes data on the Europe's unicorn startups [Unicorn Startups in Europe Dashboard 2024](https://pitchbook.com/news/articles/unicorn-startups-list-trends).
 
-Dashboard online at: [Unicorn Startups in Europe Dashboard 2024](https://unicorns-europe.streamlit.app/)
+Dashboard online at: [Unicorn Startups in Europe Dashboard 2024](https://unicorns-pitchbook-dashboard.streamlit.app/)
 
 ## Usage
 
